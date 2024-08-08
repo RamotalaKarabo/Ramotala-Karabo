@@ -44,3 +44,7 @@ A Profile README
     Firebase. Below is the **GoShoppingCart** web app that is used to store and create a shopping list user of the app. It is really useful and easey to use. Below is the GitHub link repository to the project
     <u>https://github.com/RamotalaKarabo/Module_10R_CS20240182_WF02407_B_Karabo-Ramotala_SDF10_R</u>
 
+## Social Links:
+LinkedIn : <u>https://www.linkedin.com/in/karabo-ramotala-639589281/</u>
+GitHub <u>https://github.com/RamotalaKarabo</U>
+
