@@ -33,7 +33,7 @@ A Profile README
 
 ## Projects Worked On:
 
-  - Below is a link to the Black Jack Game I made using HTML, CSS and JavaScript.To play the game you press the start 
+  - Below is a link to the **Black Jack Game** I made using HTML, CSS and JavaScript.To play the game you press the start 
     button to start the game , and to get a new card press the new card button. This is a very interactive game and 
     easy to engage with.
     Follow this link to browse the project
