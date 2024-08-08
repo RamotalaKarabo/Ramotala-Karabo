@@ -4,10 +4,8 @@ A Profile README
 ### Profile Details:
 
 
-**Name:** 
-#### Karabo
-**Surname:** 
-#### Ramotala
+**Name:** **Karabo**
+**Surname:** **Ramotala**
 **Current Role:** 
 #### Student At CodeSpace Academy
 
