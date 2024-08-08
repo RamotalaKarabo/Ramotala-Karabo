@@ -1,7 +1,7 @@
 # Ramotala-Karabo
 A Profile README 
 
-## Profile Details:
+### Profile Details:
 ### **Name:** Karabo
 ### **Surname:** Ramotala
 ### **Current Role:** Student At CodeSpace Academy
