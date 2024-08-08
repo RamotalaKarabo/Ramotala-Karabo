@@ -5,11 +5,12 @@ A Profile README
 
 
 **Name:** 
-Karabo
+#### Karabo
 **Surname:** 
-Ramotala
+#### Ramotala
 **Current Role:** 
-Student At CodeSpace Academy
+#### Student At CodeSpace Academy
+
 **Bio:** 
  - A prospective web developer.
  - Tech enthusiast.
