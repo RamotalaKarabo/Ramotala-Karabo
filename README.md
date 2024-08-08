@@ -45,6 +45,6 @@ A Profile README
     <u>https://github.com/RamotalaKarabo/Module_10R_CS20240182_WF02407_B_Karabo-Ramotala_SDF10_R</u>
 
 ## Social Links:
-LinkedIn : <u>https://www.linkedin.com/in/karabo-ramotala-639589281/</u>
-GitHub <u>https://github.com/RamotalaKarabo</U>
+#### LinkedIn : <u>https://www.linkedin.com/in/karabo-ramotala-639589281/</u>
+#### GitHub <u>https://github.com/RamotalaKarabo</U>
 
